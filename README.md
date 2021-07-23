@@ -13,7 +13,7 @@ What can you do ?
 
 -Create one (limited options because they are too many)
 
--Modify profils from a vCard by updating existing information or adding new to it.
+-Modify profils from a vCard by updating existing information or adding new ones to it.
 
 -Delete vCard or profil's vCard
 
