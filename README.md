@@ -27,6 +27,6 @@ Known problems:
 
 - ...causing too much clics
 
-- bad architecture
+- bad architecture (and code in general)
 
 - ...
