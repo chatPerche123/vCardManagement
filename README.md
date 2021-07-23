@@ -15,5 +15,7 @@ What can you do ?
 
 -Modify profils from a vCard by updating existing information or adding new ones to it.
 
--Delete vCard or profil's vCard
+-Delete vCard and/or profil's vCard
 
+
+I did test on my own but bugs and logic misconception will certainy occure !
