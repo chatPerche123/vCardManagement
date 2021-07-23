@@ -30,3 +30,5 @@ Known problems:
 - bad architecture (and code in general)
 
 - ...
+
+I will certainly not do any major update but i would like feedback if possible to put it in use on my next project.
