@@ -23,10 +23,10 @@ I did some testing along the way on my own but bugs and logic misconception can 
 
 Known problems:
 
--too many windows...
+- too many windows...
 
 - ...causing too much clics
 
--bad architecture
+- bad architecture
 
 - ...
