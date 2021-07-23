@@ -18,6 +18,7 @@ What can you do ?
 -Delete vCard and/or profil's vCard
 
 
+
 I did some testing along the way on my own but bugs and logic misconception can (will certainy) occure !
 
 Known problems:
