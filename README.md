@@ -31,4 +31,4 @@ Known problems:
 
 - ...
 
-I will certainly not do any major update but i would like feedback if possible to put it in use on my next project.
+I will certainly not do any major update soon but i would like feedback if possible to put it in use on my next project.
