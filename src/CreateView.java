@@ -120,15 +120,15 @@ public class CreateView extends JDialog {
         jpLeft.setPreferredSize(new Dimension(200, 400));
         //
         //
-        //mon jpanel de gauche qui ajoute mon jscrollpan de gauche
+        //left jpanel which add my right jscrollpan
         leftScroll.add(jpLeft);
-        //j'assigne le jlabel au jscrollpan
+        //jlabel to the jscrollpan
         jlabelLeft.setLabelFor(jpLeft);
-        //mon jpanel ajoute le jlabel et le met en haut
+        //my jpanel add the jlabel and put it up
         leftScroll.add(jlabelLeft, BorderLayout.NORTH);
         //
         //
-        //Placer avant d'ajouter quelque chose dedans ...
+        //put it before adding something in it
         DefaultCaret caret = (DefaultCaret) txtAreaRight.getCaret();
         caret.setUpdatePolicy(DefaultCaret.NEVER_UPDATE);
         //
@@ -138,14 +138,14 @@ public class CreateView extends JDialog {
         jpRight.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS);
         jpRight.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
         jpRight.setPreferredSize(new Dimension(400, 400));
-        jpRight.setViewportView(txtAreaRight);//remplace le add
+        jpRight.setViewportView(txtAreaRight);//replace the add
         //
         //
-        //mon jpanel de droite qui ajoute mon jscrollpan de droite
+        //my left jpanel which add my right jscrollpan
         middleScroll.add(jpRight);
-        //j'assigne le jlabel au jscrollpan
+        //assigne my jlabel to the jscrollpan
         jlabelRight.setLabelFor(jpRight);
-        //mon jpanel ajoute le jlabel et le met en haut
+        //my jpanel add the jlabel and put it up
         middleScroll.add(jlabelRight, BorderLayout.NORTH);
         //
         //
