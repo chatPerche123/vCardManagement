@@ -21,7 +21,11 @@ What can you do ?
 I did some testing along the way on my own but bugs and logic misconception can (will certainy) occure !
 
 Known problems:
+
 -too many windows...
+
 -...causing too much clics
+
 -bad architecture
+
 -...
