@@ -11,7 +11,7 @@ What can you do ?
 
 -Upload or export your vcf files
 
--Create one (limited option)
+-Create one (limited options because they are too many)
 
 -Modify profils from a vCard by updating existing information or adding new to it.
 
