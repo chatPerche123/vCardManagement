@@ -24,8 +24,8 @@ Known problems:
 
 -too many windows...
 
--...causing too much clics
+- ...causing too much clics
 
 -bad architecture
 
--...
+- ...
