@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="commons-io-2.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/projet java/Projet - Contact téléphone vcf/Librairies/commons-io-2.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/projet java/Projet - Contact téléphone vcf/Librairies/ez-vcard-0.11.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/projet java/Projet - Contact téléphone vcf/Librairies/jdatepicker-1.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/projet java/Projet - Contact téléphone vcf/Librairies/vinnie-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

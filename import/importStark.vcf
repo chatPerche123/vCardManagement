@@ -1,0 +1,33 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:ez-vcard 0.11.2
+N:Stark;Eddard;Ned;King;
+ADR;TYPE=home:;;Castel of Winterfell;Winterfell;The North;666;Game of Thron
+ es
+ADR;TYPE=work:;;street name (work);city name (work);region name (work);post
+ al code (work);country name (work)
+ADR;TYPE=other:;;street name (other);city name (other);region name (other);
+ postal code (other);country name (other)
+TEL;TYPE=cell:0612000000
+TEL;TYPE=work:0700000000
+TEL;TYPE=home:0299000000
+EMAIL;TYPE=home:eddard.stark@winterfell.com
+EMAIL;TYPE=work:eddard.starkpro@winterfell.com
+EMAIL;TYPE=other:bigdaddy123@gmail.com
+ORG:Stark & co
+TITLE:King of the North
+BDAY:02630705
+FN:King of the North Eddard Ned Stark King
+URL:www.google.com
+URL:www.yahoo.com
+URL:www.elysee.fr/
+NOTE:Port-Réal visite / ! \\
+HOBBY:Hunting
+HOBBY:Fishing
+HOBBY:skiing
+INTEREST:literature
+INTEREST:history
+INTEREST:politics
+GENDER:Male
+BIRTHPLACE:Winterfell casle
+END:VCARD
