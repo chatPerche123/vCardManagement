@@ -4,7 +4,7 @@
 This is a beginner project in java using the library "ezVcard" (give it a look: <a href="https://github.com/mangstadt/ez-vcard">here</a>). 
 
 
-First, a vcf file is a "vCard" (<a href="https://en.wikipedia.org/wiki/VCard">wikipedia</a> that contain multiple profils. Each of them have their own informations.
+First, a vcf file is a "vCard" (<a href="https://en.wikipedia.org/wiki/VCard">wikipedia</a>) that contain multiple profils. Each of them have their own informations.
 
 What can you do ?
 
